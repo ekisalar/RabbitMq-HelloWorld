@@ -1,0 +1,17 @@
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\Receive.exe
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\Receive.deps.json
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\Receive.dll
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\Receive.pdb
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.dll
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\refint\Receive.dll
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.pdb
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+D:\ENCA\2_Pojeler\14_Repos\education\RabbitMqHelloWorld\Receive\obj\Debug\net6.0\ref\Receive.dll

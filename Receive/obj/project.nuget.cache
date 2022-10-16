@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8iGH4eeGoU14VO+H2qtueffBmIIUq4MV3IFBndc5pDMjLxuXmQB/66W/m+Ho6GqD3D8lvk0qROwpNqGlpKyAQ==",
+  "success": true,
+  "projectFilePath": "D:\\ENCA\\2_Pojeler\\14_Repos\\education\\RabbitMqHelloWorld\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekisa\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\ekisa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ekisa\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
